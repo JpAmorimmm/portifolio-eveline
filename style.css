@@ -1,0 +1,32 @@
+* {
+    background: rgb(255, 251, 4);
+    background-size: 100px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+img {
+    border-radius: 400px;
+   
+
+}
+
+iframe {
+    border-radius: 250px;
+}
+
+h1 {
+    text-decoration: underline;
+    color: rgb(161, 159, 159);
+    text-shadow: 1px 1px 3px gold;
+
+}
+
+h2 {
+    color: rgb(161, 159, 159);
+    text-shadow: 1px 1px 3px gold;
+    text-decoration: underline;
+
+}
